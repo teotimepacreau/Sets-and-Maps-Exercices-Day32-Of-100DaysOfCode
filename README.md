@@ -1,5 +1,6 @@
 # Sets and Maps exercices from #30DaysOfJavascript
-https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/09_Day_Higher_order_functions/09_day_higher_order_functions.md
+https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md
+
 
 # Learning
 - `Set` to get unique elements from an array
